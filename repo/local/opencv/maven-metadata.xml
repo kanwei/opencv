@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>local</groupId>
+  <artifactId>opencv</artifactId>
+  <versioning>
+    <release>2.4.6</release>
+    <versions>
+      <version>2.4.6</version>
+    </versions>
+    <lastUpdated>20130718001547</lastUpdated>
+  </versioning>
+</metadata>
