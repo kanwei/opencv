@@ -5,5 +5,5 @@
   :repositories  {"project" "file:repo"}
   :jvm-opts ["-Djava.library.path=opencv/"]
   :main opencv.core
-  :dependencies [[org.clojure/clojure "1.5.1"]
-                 [local/opencv "2.4.6"]])
+  :dependencies [[org.clojure/clojure "1.6.0-RC1"]
+                 [local/opencv "2.4.8"]])
